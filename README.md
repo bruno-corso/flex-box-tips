@@ -1,5 +1,5 @@
 # flex-box-tips
-some tips to use the flex-box layout
+Some tips to use the flex-box layout
 
 O guia do Flexbox em português: https://www.alura.com.br/artigos/css-guia-do-flexbox
 
