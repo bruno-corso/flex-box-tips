@@ -6,3 +6,5 @@ O guia do Flexbox em português: https://www.alura.com.br/artigos/css-guia-do-fl
 Guia do CSS Tricks em inglês: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 O Flexbox Cheatsheet é bem visual e você pode já ir testando as propriedades: https://yoksel.github.io/flex-cheatsheet/
+
+Tricks: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
